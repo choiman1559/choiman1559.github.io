@@ -1,1 +1,0 @@
-{bill : {date : 200202,md5 : 	2c386e17dc717375f9a625dfa381a2f5},chna : {date : 0,md5 : 0},dgts : {date : 200202,md5 : 	2c386e17dc717375f9a625dfa381a2f5},jpan : {date : 200202,md5 : 	160a55e4adb071f4389c66934a454c83}}
